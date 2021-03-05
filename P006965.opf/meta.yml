@@ -1,15 +1,16 @@
-id: opecha:P006965
+id: P006965
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5441
   title: ངེས་སྒྲོན་རྣམ་བཤད།
-  volume:
+  author: ''
+  volumes:
     db89f7f7d5e44f6085c19c9d71fc1987:
       image_group_id: I3CN5443
       title: Volume 1 of nges shes rin po che'i sgron me rtsa 'grel/
       volume_number: 1
       total_pages: 316
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ངེས་སྒྲོན་རྣམ་བཤད།
   author: ''
